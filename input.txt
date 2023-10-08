@@ -1,0 +1,107 @@
+id:IDS60901
+name:Adelaide (West Terrace / ngayirdapira)
+state: SA
+time_zone:CST
+lat:-34.9
+lon:138.6
+local_date_time:15/04:00pm
+local_date_time_full:20230715160000
+air_temp:13.3
+apparent_t:9.5
+cloud:Partly cloudy
+dewpt:5.7
+press:1023.9
+rel_hum:60
+wind_dir:S
+wind_spd_kmh:15
+wind_spd_kt:8
+
+id:IDS60902
+name:Sydney (Harbour Bridge)
+state: NSW
+time_zone:AEST
+lat:-33.9
+lon:151.2
+local_date_time:15/04:00pm
+local_date_time_full:20230715150000
+air_temp:15.1
+apparent_t:11.5
+cloud:Clear sky
+dewpt:8.5
+press:1022.5
+rel_hum:70
+wind_dir:E
+wind_spd_kmh:12
+wind_spd_kt:6
+
+id:IDS60903
+name:Melbourne (Federation Square)
+state: VIC
+time_zone:AEST
+lat:-37.8
+lon:144.9
+local_date_time:15/04:00pm
+local_date_time_full:20230715151000
+air_temp:14.0
+apparent_t:10.8
+cloud:Cloudy
+dewpt:7.3
+press:1024.0
+rel_hum:68
+wind_dir:N
+wind_spd_kmh:10
+wind_spd_kt:5
+
+id:IDS60904
+name:Brisbane (South Bank)
+state: QLD
+time_zone:AEST
+lat:-27.5
+lon:153.0
+local_date_time:15/04:00pm
+local_date_time_full:20230715152000
+air_temp:20.5
+apparent_t:19.3
+cloud:Clear sky
+dewpt:14.5
+press:1019.2
+rel_hum:65
+wind_dir:NE
+wind_spd_kmh:8
+wind_spd_kt:4
+
+id:IDS60905
+name:Perth (King's Park)
+state: WA
+time_zone:AWST
+lat:-31.9
+lon:115.8
+local_date_time:15/04:00pm
+local_date_time_full:20230715143000
+air_temp:18.4
+apparent_t:17.0
+cloud:Partly cloudy
+dewpt:10.2
+press:1021.3
+rel_hum:58
+wind_dir:W
+wind_spd_kmh:13
+wind_spd_kt:7
+
+id:IDS60906
+name:Hobart (Battery Point)
+state: TAS
+time_zone:AEST
+lat:-42.9
+lon:147.3
+local_date_time:15/04:00pm
+local_date_time_full:20230715153000
+air_temp:12.1
+apparent_t:10.5
+cloud:Cloudy
+dewpt:6.9
+press:1025.7
+rel_hum:72
+wind_dir:SSE
+wind_spd_kmh:7
+wind_spd_kt:4
